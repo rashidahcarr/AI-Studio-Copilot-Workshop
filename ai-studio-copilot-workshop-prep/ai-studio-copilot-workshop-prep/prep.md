@@ -1,6 +1,6 @@
 # Sept 22 Session prep
 
-Slides: https://docs.google.com/presentation/d/12Dse07iOWZlC0M79ZmOMG4XYGGPWj3d5NPtF_2Q1WuE/edit?slide=id.g3f8e16d9baf_0_1276#slide=id.g3f8e16d9baf_0_1276
+Slides: [https://docs.google.com/presentation/d/12Dse07iOWZlC0M79ZmOMG4XYGGPWj3d5NPtF_2Q1WuE/edit?slide=id.g3f8e16d9baf_0_1276#slide=id.g3f8e16d9baf_0_1276]
 
 Master Event guide: https://docs.google.com/spreadsheets/d/1pjWyihT469X9W-Mzqvb_XIG9sLXLHxeKVw9jq3lEaNQ/edit?gid=1271631271#gid=1271631271
 
