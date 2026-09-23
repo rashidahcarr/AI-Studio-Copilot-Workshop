@@ -1,14 +1,14 @@
 # Sept 22 Session prep
 
-Slides: https://docs.google.com/presentation/d/12Dse07iOWZlC0M79ZmOMG4XYGGPWj3d5NPtF_2Q1WuE/edit?slide=id.g3f8e16d9baf_0_1276#slide=id.g3f8e16d9baf_0_1276
+Slides: https://docs.google.com/presentation/d/1adP_2d2FvxdK8IZWjJTpXKN8aE7-9dEhuJo8yY4UEYE/edit?usp=drive_link
 
 Master Event guide: https://docs.google.com/spreadsheets/d/1pjWyihT469X9W-Mzqvb_XIG9sLXLHxeKVw9jq3lEaNQ/edit?gid=1271631271#gid=1271631271
 
-Codespace Demo: https://improved-space-disco-54594vg5vvx37x5g.github.dev/
+Codespace Demo: https://jubilant-parakeet-jjgp5xj5x456h7pp.github.dev/
 
 GitHub Workshop: https://github.com/Break-Through-Tech/ai-studio-copilot-workshop
 
-Forked prep: https://github.com/ejparnell/ai-studio-copilot-workshop/tree/prep
+Forked prep: https://github.com/rashidahcarr/AI-Studio-Copilot-Workshop-prep
 
 ## Event
 
